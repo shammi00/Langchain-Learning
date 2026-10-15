@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep an example environment file if needed
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+
+# Logs
+*.log
